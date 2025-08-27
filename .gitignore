@@ -1,3 +1,11 @@
+# Build folder
+build/
+
+# VSCode except launch.json
+.vscode/
+!.vscode/launch.json
+
+
 # C++ objects and libs
 *.slo
 *.lo
