@@ -9,4 +9,5 @@ find_package(Qt6 REQUIRED COMPONENTS Widgets)
 qt_standard_project_setup()
 
 add_subdirectory(sample-1)
+add_subdirectory(sample-2)
 
