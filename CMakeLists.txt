@@ -14,5 +14,7 @@ qt_standard_project_setup()
 # add_subdirectory(sample-4)
 # add_subdirectory(sample-5)
 # add_subdirectory(sample-6)
-add_subdirectory(sample-7)
+# add_subdirectory(sample-7)
+add_subdirectory(sample-8)
+add_subdirectory(sample-9)
 

@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
     
     qDebug() << rect << window.frameSize() << x << y;
 
-    // Doesn't work!
+    // Doesn't work after .show()!
     window.move(x, y);
 
     return app.exec();
