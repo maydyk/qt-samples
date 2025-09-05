@@ -1,6 +1,9 @@
 # Build folder
 build/
 
+# Book sources
+book/
+
 ##
 ## Visual Studio Code
 ##
