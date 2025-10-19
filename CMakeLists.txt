@@ -42,5 +42,6 @@ qt_standard_project_setup()
 # add_subdirectory(sample-5.4)
 # add_subdirectory(sample-5.5)
 # add_subdirectory(sample-5.6)
-add_subdirectory(sample-5.7)
+# add_subdirectory(sample-5.7)
+add_subdirectory(sample-5.8)
 
